@@ -160,7 +160,7 @@ Hey there! I'm **Shemeel Sakeer**, a passionate **.NET Full Stack Developer** fr
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShemeelVK&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=ShemeelVK&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 </div>
 
